@@ -25,4 +25,4 @@ A web interface is available for remote control of the configurators. The comple
 
 The configurator can be integrated into [PDM-ERP Inegration](https://github.com/erppdm/PDM-ERP-Integration?tab=readme-ov-file#introduction) to transfer configured models and drawings automatically into the PDM and synchronize data with the ERP system.
 
-In summary, the **SolidWorks Product Configurator** combines flexibility, efficiency, and seamless integration to streamline CAD creation and ensure compatibility with modern workflows and systems.
+In summary, the **SolidWorks Product Configurator** combines flexibility, efficiency and seamless integration to optimise CAD creation and ensure compatibility with modern workflows and systems.
